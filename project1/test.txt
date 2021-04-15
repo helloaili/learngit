@@ -2,3 +2,4 @@ hello git.
 add new line.
 git is free.
 last line.
+git has a stage.
